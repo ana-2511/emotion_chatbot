@@ -28,14 +28,14 @@ Approach Summary
 - Pandas (for analysis scripts)
 
 Folder Structure
-------
+
 emotion_chatbot_json/
 ├── app.py                -> Flask backend
 ├── dialog_flow.json      -> Emotion triggers and responses
 ├── stream_chat.py        -> Streamlit frontend
 ├── triger_rep.py         -> Trigger coverage tester
 ├── extract.ipynb         -> Phrase extractor from datasets 
------
+
  
 Running the Project
 
